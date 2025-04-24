@@ -1,4 +1,4 @@
-package midterm1.t2.beef.sub.R21;
+package midterm1.t2.beef.sub;
 
 import midterm1.t2.beef.A21;
 import midterm1.t2.oven.scene.A22;
